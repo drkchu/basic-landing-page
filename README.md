@@ -1,9 +1,9 @@
-# basic landing page
+# Basic landing page
 
 ## Objectives
 - Practice CSS flex box
 
-## citations
+## Citations
 japan image: https://en.japantravel.com/tokyo/shibuya-crossing/3016
 
 new york image: https://www.thrillist.com/travel/nation/new-york-tourist-attractions-tips
