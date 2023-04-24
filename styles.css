@@ -95,6 +95,28 @@ img {
 
 .information {
   flex: 1;
+  padding: 20px;
+}
+
+.images-and-text {
+  padding-top: 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.images-and-text img {
+  border-radius: 75px;
+  width: 300px; 
+  height: auto;
+}
+
+.images-and-text p {
+  align-items: flex-end;
+}
+
+.information h1 {
+  text-align: center;
 }
 
 .quote {
