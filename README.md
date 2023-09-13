@@ -1,5 +1,7 @@
 # Basic landing page
 
+Basic landing page of some random information about me!
+
 ## Objectives
 - Practice CSS flex box
 
